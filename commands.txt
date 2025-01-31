@@ -5,3 +5,7 @@ git status=>for listing untracked files
 git add -A=> for adding untracked files to staging area
 
 git commit -m "message"=>for adding files from staging area to ocal repository
+
+fit config --globak user.name "username"
+
+git config --global user.emaikl "email"
